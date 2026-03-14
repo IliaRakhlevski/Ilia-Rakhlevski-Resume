@@ -32,16 +32,18 @@ Technion Data Science Program
 ## Education Documents
 
 ### M.Sc. in Intelligent Systems
-- Diploma: [Master of Science in Intelligent Systems](Master of Science in Intelligent Systems.PDF)
-- Transcript: [Course Transcript – Intelligent Systems](Course Transcript - Intelligent Systems.PDF)
+
+- Diploma: [Master of Science in Intelligent Systems](./Master%20of%20Science%20in%20Intelligent%20Systems.PDF)
+- Transcript: [Course Transcript – Intelligent Systems](./Course%20Transcript%20-%20Intelligent%20Systems.PDF)
 
 ### B.Sc. in Software Engineering
-- Diploma: [Bachelor of Science in Software Engineering](Bachelor of Science in Software Engineering.pdf)
+
+- Diploma: [Bachelor of Science in Software Engineering](./Bachelor%20of%20Science%20in%20Software%20Engineering.pdf)
 
 ### Technion Data Science Program
-- Certificate: [Technion – Data Scientist](Technion - Data Scientist.PDF)
-- Transcript: [Technion – Data Science – Final Transcript](Technion - Data Science - Final Transcript.pdf)
 
+- Certificate: [Technion – Data Scientist](./Technion%20-%20Data%20Scientist.PDF)
+- Transcript: [Technion – Data Science – Final Transcript](./Technion%20-%20Data%20Science%20-%20Final%20Transcript.pdf)
 ---
 
 ## GitHub Profile
