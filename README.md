@@ -25,22 +25,22 @@ Technion Data Science Program
 ## Resume
 
 📄 Download PDF:  
-[Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf](./Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf)
+[Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf](Ilia_Rakhlevski_Senior_C++_Engineer_2026.pdf)
 
 ---
 
 ## Education Documents
 
 ### M.Sc. in Intelligent Systems
-- Diploma: [Master of Science in Intelligent Systems](./education/Master_of_Science_in_Intelligent_Systems.pdf)
-- Transcript: [Course Transcript – Intelligent Systems](./education/Course_Transcript_Intelligent_Systems.pdf)
+- Diploma: [Master of Science in Intelligent Systems](Master of Science in Intelligent Systems.PDF)
+- Transcript: [Course Transcript – Intelligent Systems](Course Transcript - Intelligent Systems.PDF)
 
 ### B.Sc. in Software Engineering
-- Diploma: [Bachelor of Science in Software Engineering](./education/Bachelor_of_Science_in_Software_Engineering.pdf)
+- Diploma: [Bachelor of Science in Software Engineering](Bachelor of Science in Software Engineering.pdf)
 
 ### Technion Data Science Program
-- Certificate: [Technion – Data Scientist](./certificates/Technion_Data_Scientist.pdf)
-- Transcript: [Technion – Data Science – Final Transcript](./certificates/Technion_Data_Science_Final_Transcript.pdf)
+- Certificate: [Technion – Data Scientist](Technion - Data Scientist.PDF)
+- Transcript: [Technion – Data Science – Final Transcript](Technion - Data Science - Final Transcript.pdf)
 
 ---
 
