@@ -43,7 +43,7 @@ Technion Data Science Program
 ### Technion Data Science Program
 
 - Certificate: [Technion – Data Scientist](./Technion%20-%20Data%20Scientist.PDF)
-- Transcript: [Technion – Data Science – Final Transcript](./Technion%20-%20Data%20Science%20-%20Final%20Transcript.pdf)
+- Transcript: [Technion – Data Science – Final Transcript](./Technion%20%20-%20Data%20Science%20-%20Final%20Transcript.pdf)
 ---
 
 ## GitHub Profile
